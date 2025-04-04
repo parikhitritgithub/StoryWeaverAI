@@ -2,7 +2,28 @@
 
 ![Banner](public/banner.png) *(optional: add a banner image if you have one)*
 
-A full-stack application combining a React/Vite frontend with a Flask backend for AI-powered storytelling.
+## 📘 Introduction
+GenAI Interactive Learning Games is an innovative project that leverages Generative AI to create immersive and adaptive educational experiences. This specific module—AI-Powered Language and Literacy Games—focuses on enhancing creativity, storytelling abilities, and language skills through interactive, narrative-based gameplay. Players co-create stories alongside an AI storyteller that dynamically adapts the storyline based on the user's choices, boosting both engagement and language proficiency.
+ 
+## 🙏 Acknowledgment
+We extend our heartfelt gratitude to our mentors, faculty, and peers at the Department of Computer Science and Engineering, Assam Kaziranga University, for their consistent support and guidance.
+
+We would also like to acknowledge Google DeepMind for providing access to the Gemini Large Language Model, which is central to our project.
+
+Special thanks to the open-source and educational AI communities for their continued inspiration and innovation.
+
+## 🎯 Objectives
+
+&nbsp;&#10022; To develop AI-driven storytelling games that improve reading, writing, and listening skills.
+
+&nbsp;&#10022; To enhance creativity and critical thinking through interactive, AI-generated narratives.
+
+&nbsp;&#10022; To integrate multimodal learning using speech-to-text and text-to-speech technologies.
+
+&nbsp;&#10022; To deliver personalized learning experiences using adaptive content generation by Gemini.
+
+&nbsp;&#10022; To promote language development in a fun and user-centered environment.
+
 
 ## 📁 Project Structure
 
@@ -94,3 +115,9 @@ storyteller-flask/ # Backend (Flask)
 &nbsp;&#10022; Push to branch (git push origin feature/your-feature)
 
 &nbsp;&#10022; Open a Pull Request
+
+## Team Members
+
+- [Parikhit Kurmi](https://github.com/parikhitritgithub)
+- [Sneha Nandi](https://github.com/snehanandi08)
+- [Abhishek podder](https://github.com/abhishek-0509)
