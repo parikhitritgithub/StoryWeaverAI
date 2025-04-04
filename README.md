@@ -1,6 +1,6 @@
 # Storyteller AI Project
 
-![Banner](media/Screenshot%202025-04-04%20075440.png) *(optional: add a banner image if you have one)*
+![Banner](media/Screenshot%202025-04-04%20075440.png) 
 
 ## 📘 Introduction
 GenAI Interactive Learning Games is an innovative project that leverages Generative AI to create immersive and adaptive educational experiences. This specific module—AI-Powered Language and Literacy Games—focuses on enhancing creativity, storytelling abilities, and language skills through interactive, narrative-based gameplay. Players co-create stories alongside an AI storyteller that dynamically adapts the storyline based on the user's choices, boosting both engagement and language proficiency.
