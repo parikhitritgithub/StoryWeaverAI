@@ -1,6 +1,5 @@
 # Storyteller AI Project
 
-
 <video width="100%" controls>
   <source src="media/Recording 2025-04-04 192335.mp4" type="video/mp4">
   Your browser does not support the video tag.
