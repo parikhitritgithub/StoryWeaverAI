@@ -1,0 +1,5 @@
+Flask==3.0.3
+python-dotenv==1.0.1
+together==1.2.2
+flask-cors==4.0.1
+gunicorn==20.1.0

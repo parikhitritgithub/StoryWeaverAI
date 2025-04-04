@@ -1,0 +1,7 @@
+# Frontend ignores
+Storyteller_Ai/node_modules/
+Storyteller_Ai/.env
+
+
+# Backend ignores
+storyteller-flask/.env
