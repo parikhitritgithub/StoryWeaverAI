@@ -1,6 +1,6 @@
 # Storyteller AI Project
 
-![Banner](public/banner.png) *(optional: add a banner image if you have one)*
+![Banner](media/Screenshot%202025-04-04%20075440.png) *(optional: add a banner image if you have one)*
 
 ## 📘 Introduction
 GenAI Interactive Learning Games is an innovative project that leverages Generative AI to create immersive and adaptive educational experiences. This specific module—AI-Powered Language and Literacy Games—focuses on enhancing creativity, storytelling abilities, and language skills through interactive, narrative-based gameplay. Players co-create stories alongside an AI storyteller that dynamically adapts the storyline based on the user's choices, boosting both engagement and language proficiency.
@@ -23,6 +23,29 @@ Special thanks to the open-source and educational AI communities for their conti
 &nbsp;&#10022; To deliver personalized learning experiences using adaptive content generation by Gemini.
 
 &nbsp;&#10022; To promote language development in a fun and user-centered environment.
+
+## 🧠 Large Language Model (LLM) Used
+&nbsp;&#10022; We use Gemini by Google DeepMind as the core Large Language Model for:
+
+&nbsp;&#10022; Natural Language Understanding (NLU): Interpreting user inputs and story decisions.
+
+&nbsp;&#10022; Natural Language Generation (NLG): Creating coherent and engaging narrative responses.
+
+&nbsp;&#10022; Contextual Adaptation: Adapting storylines based on user history and preferences.
+
+## 🖥️ User Interface
+Our user interface is designed to provide a seamless and interactive storytelling experience, accessible to users of all ages.
+### Homepage : 
+<img src="media/Screenshot 2025-04-04 075440.png" alt="storywaverAi" width="1500">
+
+### Dashboard : 
+<img src="media/Screenshot 2025-04-04 075452.png" alt="storywaverAi" width="1500">
+
+## Other pages  
+<img src="media/Screenshot 2025-04-04 075507.png" alt="storywaverAi" width="1500">
+<img src="media/Screenshot 2025-04-04 075831.png" alt="storywaverAi" width="1500">
+<img src="media/Screenshot 2025-04-04 075844.png" alt="storywaverAi" width="1500">
+
 
 
 ## 📁 Project Structure
