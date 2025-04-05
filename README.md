@@ -1,4 +1,4 @@
-# StoryWeaverAI Project
+# Storyteller AI Project
 
 ![Banner](media/Screenshot%202025-04-04%20190032%20-%20Copy.png) 
 
@@ -58,7 +58,7 @@ Our user interface is designed to provide a seamless and interactive storytellin
 │ ├── banner.png
 │ └── vite.svg
 ├── src/
-│ ├── assets/ # Images/fonts/video
+│ ├── assets/ # Images/fonts
 │ ├── components/ # React components
 │ ├── layouts/ # Page layouts
 │ ├── routes/ # Application routes
