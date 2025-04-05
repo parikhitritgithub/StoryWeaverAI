@@ -9,7 +9,6 @@
 GenAI Interactive Learning Games is an innovative project that leverages Generative AI to create immersive and adaptive educational experiences. This specific module—AI-Powered Language and Literacy Games—focuses on enhancing creativity, storytelling abilities, and language skills through interactive, narrative-based gameplay. Players co-create stories alongside an AI storyteller that dynamically adapts the storyline based on the user's choices, boosting both engagement and language proficiency.
  
 ## 🙏 Acknowledgment
-We extend our heartfelt gratitude to our mentors, faculty, and peers at the Department of Computer Science and Engineering, Assam Kaziranga University, for their consistent support and guidance.
 
 We would also like to acknowledge Google DeepMind for providing access to the Gemini Large Language Model, which is central to our project.
 
@@ -44,7 +43,7 @@ Our user interface is designed to provide a seamless and interactive storytellin
 ### Dashboard : 
 <img src="media/Screenshot 2025-04-04 075452.png" alt="storywaverAi" width="1500">
 
-## Other pages  
+## feature :  
 <img src="media/Screenshot 2025-04-04 075507.png" alt="storywaverAi" width="1500">
 <img src="media/Screenshot 2025-04-04 075831.png" alt="storywaverAi" width="1500">
 <img src="media/Screenshot 2025-04-04 075844.png" alt="storywaverAi" width="1500">
@@ -122,7 +121,6 @@ storyteller-flask/ # Backend (Flask)
 
 &nbsp;&#10022; Tailwind CSS
 
-&nbsp;&#10022; ESLint (code quality)
 
 ## Backend:
 
