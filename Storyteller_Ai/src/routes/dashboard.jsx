@@ -347,7 +347,7 @@ const StoryPage = () => {
                       const voice = voices.find(v => v.name === e.target.value);
                       setSelectedVoice(voice);
                     }}
-                    className="p-2 rounded border border-gray-300 bg-white text-sm shadow-md focus:ring-2 focus:ring-purple-200 focus:border-purple-500 font-roboto"
+                    className="p-2 rounded border border-gray-300 bg-white text-black  text-sm shadow-md focus:ring-2 focus:ring-purple-200 focus:border-purple-500 font-roboto"
                   >
                     {voices.filter(v => v.lang.includes('en')).map((voice) => (
                       <option key={voice.name} value={voice.name}>

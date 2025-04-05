@@ -58,11 +58,11 @@ Our user interface is designed to provide a seamless and interactive storytellin
 │ ├── banner.png
 │ └── vite.svg
 ├── src/
-│ ├── assets/ # Images/fonts
+│ ├── assets/ # Images/fonts/video
 │ ├── components/ # React components
 │ ├── layouts/ # Page layouts
 │ ├── routes/ # Application routes
-│ ├── App.jsx # Main component
+│ ├── index.css
 │ └── main.jsx # Entry point
 ├── .eslintrc.cjs # ESLint config
 ├── tailwind.config.js # Tailwind CSS config
