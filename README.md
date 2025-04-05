@@ -1,4 +1,4 @@
-# Storyteller AI Project
+# StoryWeaverAI Project
 
 ![Banner](media/Screenshot%202025-04-04%20190032%20-%20Copy.png) 
 
